@@ -8,7 +8,7 @@ Coming soon
 
 ### Todos && Features
 * [X] Create Database structure
-* [] Create migration tables
-* [] Create Data Seeders
-* [] ... in progress
+* [X] Create migration tables
+* [X] Create Data Seeders
+* [ ] ... in progress
 
