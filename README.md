@@ -3,12 +3,14 @@ A custom CMS built with Laravel
 
 
 ### Demo
-Coming soon
+[Laravel CMS demo (alpha)](http://laracms.juancadima.com/)
+
+
+### Demo login info:
+user: demo@test.com <br/>
+pass: demo2018
 
 
 ### Todos && Features
-* [X] Create Database structure
-* [X] Create migration tables
-* [X] Create Data Seeders
-* [ ] ... in progress
+Comming Soon
 
