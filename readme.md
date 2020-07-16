@@ -1,5 +1,5 @@
-# Customer Laravel CMS
-A customer Laravel based CMS with user management, Blog component and content management
+# Custom Laravel CMS
+A custom Laravel based CMS with user management, Blog component and content management
 
 ### Overview
 - Bootstrap 4.3
